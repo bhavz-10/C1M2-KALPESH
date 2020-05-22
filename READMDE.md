@@ -1,0 +1,1 @@
+/* @author Bhavik Kalpesh @project This project is about learning how to use the GNU tool MAKE and build a project. It gives insight about how a project is built. This is just an assignment of coursera. */
